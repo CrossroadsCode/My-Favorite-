@@ -1,0 +1,44 @@
+#Welcome {
+
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    overflow: hidden;
+
+}
+}
+
+h1 {
+    color: black;
+}
+
+#IMG1 {
+    height: 500px;
+    width: 500;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+.line {
+
+    width: 450px;
+
+
+}
+
+
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+
+
+}
